@@ -1,9 +1,7 @@
-# keepcallme
-O identificador de chamadas inteligente
+O keepcall.me é um identificador de chamadas inteligentes.
 Saiba quem te ligou mesmo quando seu celular estava desligado ou fora da área de cobertura.
-O keepCall.me bloqueia e converte mensagens  "Oi Ligou",  "Te Ligou", "Vivo Avisa" ou "Secretária Claro" em ligações perdidas de verdade, identificando o contato na sua agenda e tudo mais.
+Ele bloqueia e converte mensagens  "Oi Ligou",  "Te Ligou", "Vivo Avisa" ou "Secretária Claro" em ligações perdidas de verdade, identificando o contato na sua agenda e tudo mais.
 Você nunca mais vai precisar discar o número da mensagem pra descobrir quem te ligou.
-De forma inteligente, identifica números com ou sem DDD e caracteres especiais como traços e parênteses.
 
 #Claro
 * Requer serviço - Secretária Eletrônica

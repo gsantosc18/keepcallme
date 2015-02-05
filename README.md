@@ -1,62 +1,62 @@
 # keepcallme
 O identificador de chamadas inteligente
-Saiba quem te ligou mesmo quando seu celular estava desligado ou fora da área de cobertura.
-O keepCall.me bloqueia e converte mensagens  "Oi Ligou",  "Te Ligou", "Vivo Avisa" ou "Secretária Claro" em ligações perdidas de verdade, identificando o contato na sua agenda e tudo mais.
-Você nunca mais vai precisar discar o número da mensagem pra descobrir quem te ligou.
-De forma inteligente, identifica números com ou sem DDD e caracteres especiais como traços e parênteses.
+Saiba quem te ligou mesmo quando seu celular estava desligado ou fora da √°rea de cobertura.
+O keepCall.me bloqueia e converte mensagens  "Oi Ligou",  "Te Ligou", "Vivo Avisa" ou "Secret√°ria Claro" em liga√ß√µes perdidas de verdade, identificando o contato na sua agenda e tudo mais.
+Voc√™ nunca mais vai precisar discar o n√∫mero da mensagem pra descobrir quem te ligou.
+De forma inteligente, identifica n√∫meros com ou sem DDD e caracteres especiais como tra√ßos e par√™nteses.
 
 #Claro
-* Requer serviço - Secretária Eletrônica
+* Requer servi√ßo - Secret√°ria Eletr√¥nica
 
 #Vivo
-* Requer serviço - Vivo Avisa
+* Requer servi√ßo - Vivo Avisa
 
 #Tim
-* Requer serviço - Te Ligou
+* Requer servi√ßo - Te Ligou
 
 #Oi
-* Requer serviço - Oi Ligou
+* Requer servi√ßo - Oi Ligou
 
-#Descrição
+#Descri√ß√£o
  
 
 -----------------------------------------------------------
 
-* Funciona SOMENTE para as novas ligações. Não transforma as mensagens que existiam antes de instalar o aplicativo.
+* Funciona SOMENTE para as novas liga√ß√µes. N√£o transforma as mensagens que existiam antes de instalar o aplicativo.
 
 -----------------------------------------------------------
 
-* Usuários do "GO SMS PRO" precisam desabilitar a seguinte opção: Settings > Receive Settings > Disable other message notification.
+* Usu√°rios do "GO SMS PRO" precisam desabilitar a seguinte op√ß√£o: Settings > Receive Settings > Disable other message notification.
 
 -----------------------------------------------------------
 
 Procedimento de teste do applicativo:
 
-1 - Certifique que você esteja recebendo os sms da operadora ultimamente
-2 - Execute o keepcall.me pelo menos uma vez (clicando no ícone da applicação)
-3 - Tenha certeza que não usa nenhum outro programa de sms como o "GO SMS PRO"
+1 - Certifique que voc√™ esteja recebendo os sms da operadora ultimamente
+2 - Execute o keepcall.me pelo menos uma vez (clicando no √≠cone da applica√ß√£o)
+3 - Tenha certeza que n√£o usa nenhum outro programa de sms como o "GO SMS PRO"
 
 Teste:
 
-1 - Coloque o celular em modo avião
-2 - Use outro aparelho para ligar para o celular que você acabou de colocar em modo avião.
-3 - Espere chamar até cair na caixa. Não deixe recado, pois assim a operadora não enviará o sms.
-4 - Retire o celular do modo avião e espere o keepcall.me agir.
+1 - Coloque o celular em modo avi√£o
+2 - Use outro aparelho para ligar para o celular que voc√™ acabou de colocar em modo avi√£o.
+3 - Espere chamar at√© cair na caixa. N√£o deixe recado, pois assim a operadora n√£o enviar√° o sms.
+4 - Retire o celular do modo avi√£o e espere o keepcall.me agir.
 
 Problema 1:
 
-    O sms continua chegando e o keepcall.me não o intercepta.
-    Solução: É um formato de mensagem que o keepcall.me não conhece.
-             Envie a mensagem que não foi interceptada para celiovasconcelos@gmail.com.
-             O desenvolvedor corrigirá o problema e atualizará o software no prazo de 24 horas.
+    O sms continua chegando e o keepcall.me n√£o o intercepta.
+    Solu√ß√£o: √â um formato de mensagem que o keepcall.me n√£o conhece.
+             Envie a mensagem que n√£o foi interceptada para celiovasconcelos@gmail.com.
+             O desenvolvedor corrigir√° o problema e atualizar√° o software no prazo de 24 horas.
 
 Problema 2:
 
-    O sms parou de chegar e o keepcall.me não apresenta a notificação.
-    Solução: Aguarde mais um pouco, pois pode ser uma lentidão da operadora em enviar a mensagem.
-             Se já passou algumas horas, então envie um email para celiovasconcelos@gmail.com com as seguintes informações:
+    O sms parou de chegar e o keepcall.me n√£o apresenta a notifica√ß√£o.
+    Solu√ß√£o: Aguarde mais um pouco, pois pode ser uma lentid√£o da operadora em enviar a mensagem.
+             Se j√° passou algumas horas, ent√£o envie um email para celiovasconcelos@gmail.com com as seguintes informa√ß√µes:
              1 - Marca/Modelo do aparelho
-             2 - Versão do Android
-             O desenvolvedor corrigirá o problema e atualizará o software no prazo de 24 horas.
+             2 - Vers√£o do Android
+             O desenvolvedor corrigir√° o problema e atualizar√° o software no prazo de 24 horas.
 
 

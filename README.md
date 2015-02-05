@@ -1,3 +1,7 @@
+Google Play
+
+https://play.google.com/store/apps/details?id=me.keepcall.br
+
 O keepcall.me é um identificador de chamadas inteligentes.
 Saiba quem te ligou mesmo quando seu celular estava desligado ou fora da área de cobertura.
 Ele bloqueia e converte mensagens  "Oi Ligou",  "Te Ligou", "Vivo Avisa" ou "Secretária Claro" em ligações perdidas de verdade, identificando o contato na sua agenda e tudo mais.

@@ -45,20 +45,4 @@ Teste:
 3 - Espere chamar até cair na caixa. Não deixe recado, pois assim a operadora não enviará o sms.
 4 - Retire o celular do modo avião e espere o keepcall.me agir.
 
-Problema 1:
-
-    O sms continua chegando e o keepcall.me não o intercepta.
-    Solução: É um formato de mensagem que o keepcall.me não conhece.
-             Envie a mensagem que não foi interceptada para celiovasconcelos@gmail.com.
-             O desenvolvedor corrigirá o problema e atualizará o software no prazo de 24 horas.
-
-Problema 2:
-
-    O sms parou de chegar e o keepcall.me não apresenta a notificação.
-    Solução: Aguarde mais um pouco, pois pode ser uma lentidão da operadora em enviar a mensagem.
-             Se já passou algumas horas, então envie um email para celiovasconcelos@gmail.com com as seguintes informações:
-             1 - Marca/Modelo do aparelho
-             2 - Versão do Android
-             O desenvolvedor corrigirá o problema e atualizará o software no prazo de 24 horas.
-
 

@@ -19,10 +19,16 @@ Você nunca mais vai precisar discar o número da mensagem pra descobrir quem te
 * Usuários do "GO SMS PRO" precisam desabilitar a seguinte opção: Settings > Receive Settings > Disable other message notification.
 
 1 - Certifique que você esteja recebendo os sms da operadora ultimamente
+
 2 - Execute o keepcall.me pelo menos uma vez (clicando no ícone da applicação)
+
 3 - Tenha certeza que não usa nenhum outro programa de sms como o "GO SMS PRO"
+
 4 - Coloque o celular em modo avião
+
 5 - Use outro aparelho para ligar para o celular que você acabou de colocar em modo avião.
+
 6 - Espere chamar até cair na caixa. Não deixe recado, pois assim a operadora não enviará o sms.
+
 7 - Retire o celular do modo avião e espere o keepcall.me agir.
 
